@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fce1fb28-a1e1-4aae-8d4d-dbf5bbf22375" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/android/src/main/libs/deepar.aar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/camera_deep_ar/android/src/main/libs/deepar.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/camera_deep_ar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/camera_deep_ar/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/camera_deep_ar/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/camera_deep_ar/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/ios/.symlinks/plugins/camera_deep_ar/android/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/example/ios/.symlinks/plugins/camera_deep_ar/android/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hlk9siz6EiuHImu224NYAA638Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/example/android/app" />
+      <recent name="$PROJECT_DIR$/android/src/main" />
+      <recent name="$PROJECT_DIR$/android/lib" />
+      <recent name="$PROJECT_DIR$/ios" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fce1fb28-a1e1-4aae-8d4d-dbf5bbf22375" name="Default Changelist" comment="" />
+      <created>1600592917529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600592917529</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add zoom capability on android only....">
+      <created>1607437090969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607437090971</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add zoom capability on android only....&#10;fix camera direction on android">
+      <created>1607438319470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607438319470</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add zoom capability on android only....&#10;fix camera direction on android">
+      <created>1607439452339</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607439452339</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add ReadMe documentation">
+      <created>1608712198011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608712198011</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add ReadMe Mod documentation">
+      <created>1608713201015</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1608713201015</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add ReadMe Mod documentation">
+      <created>1608714689784</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1608714689784</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add zoom capability on android only...." />
+    <MESSAGE value="Add zoom capability on android only....&#10;fix camera direction on android" />
+    <MESSAGE value="Add ReadMe documentation" />
+    <MESSAGE value="Add ReadMe Mod documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add ReadMe Mod documentation" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="269" y="113" key="#PSD" timestamp="1600700760687">
+      <screen x="0" y="23" width="1366" height="699" />
+    </state>
+    <state x="269" y="113" key="#PSD/0.23.1366.699@0.23.1366.699" timestamp="1600700760687" />
+    <state x="423" y="181" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600660202212">
+      <screen x="0" y="23" width="1366" height="699" />
+    </state>
+    <state x="423" y="181" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1366.699@0.23.1366.699" timestamp="1600660202212" />
+    <state x="173" y="23" key="CommitChangelistDialog2" timestamp="1608714688617">
+      <screen x="0" y="23" width="1366" height="699" />
+    </state>
+    <state x="173" y="23" key="CommitChangelistDialog2/0.23.1366.699@0.23.1366.699" timestamp="1608714688617" />
+    <state x="221" y="123" width="1145" height="499" key="DiffContextDialog" timestamp="1600761419147">
+      <screen x="0" y="23" width="1366" height="699" />
+    </state>
+    <state x="221" y="123" width="1145" height="499" key="DiffContextDialog/0.23.1366.699@0.23.1366.699" timestamp="1600761419147" />
+    <state width="1303" height="241" key="GridCell.Tab.0.bottom" timestamp="1600789585379">
+      <screen x="0" y="23" width="1366" height="699" />
+    </state>
+    <state width="1303" height="241" key="GridCell.Tab.0.bottom/0.23.1366.699@0.23.1366.699" timestamp="1600789585379" />
+    <state width="1303" height="241" key="GridCell.Tab.0.center" timestamp="1600789585378">
+      <screen x="0" y="23" width="1366" height="699" />
+    </state>
+    <state width="1303" height="241" key="GridCell.Tab.0.center/0.23.1366.699@0.23.1366.699" timestamp="1600789585378" />
+    <state width="1303" height="241" key="GridCell.Tab.0.left" timestamp="1600789585377">
+      <screen x="0" y="23" width="1366" height="699" />
+    </state>
+    <state width="1303" height="241" key="GridCell.Tab.0.left/0.23.1366.699@0.23.1366.699" timestamp="1600789585377" />
+    <state width="1303" height="241" key="GridCell.Tab.0.right" timestamp="1600789585378">
+      <screen x="0" y="23" width="1366" height="699" />
+    </state>
+    <state width="1303" height="241" key="GridCell.Tab.0.right/0.23.1366.699@0.23.1366.699" timestamp="1600789585378" />
+    <state x="305" y="98" key="Vcs.Push.Dialog.v2" timestamp="1608714976054">
+      <screen x="0" y="23" width="1366" height="699" />
+    </state>
+    <state x="305" y="98" key="Vcs.Push.Dialog.v2/0.23.1366.699@0.23.1366.699" timestamp="1608714976054" />
+    <state x="221" y="123" width="1145" height="499" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1600761419148">
+      <screen x="0" y="23" width="1366" height="699" />
+    </state>
+    <state x="221" y="123" width="1145" height="499" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1366.699@0.23.1366.699" timestamp="1600761419148" />
+    <state x="342" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1600655302209">
+      <screen x="0" y="23" width="1366" height="699" />
+    </state>
+    <state x="342" y="204" key="com.intellij.ide.util.TipDialog/0.23.1366.699@0.23.1366.699" timestamp="1600655302209" />
+  </component>
+</project>
